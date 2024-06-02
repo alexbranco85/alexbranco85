@@ -1,9 +1,5 @@
 # Bem-vindo! 👋
 
-<img align="right" alt="Imagem de catalyststuff" height="380" src="https://api.alexbranco.dev.br/images/profile.png">
-
-
-
 <p style="font-size: 30px;">
     <img align="center" alt="Alex Branco" width="40px" src="https://github.com/alexbranco85.png/">
     <strong># Alex Branco</strong>
