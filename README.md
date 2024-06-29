@@ -13,7 +13,8 @@
 
 <p align="justify">Se você procura alguém que se dedique a entregar resultados excepcionais, apaixonado por tecnologia e sempre querendo aprender mais, chegou no lugar certo. Vamos criar algo incrível juntos?</p>
 
-<p align="justify">Acesse meu portfólio: (http://www.alexbranco.com.br)</p>
+<p align="justify">Acesse meu portfólio:</p>
+ [![www.alexbranco.com.br]([https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fc6326&color:FFF)](linkedin.com/in/alex-branco-08449b1b7](https://www.alexbranco.com.br))
  
 <br>
 
