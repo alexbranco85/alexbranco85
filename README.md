@@ -13,7 +13,7 @@
 
 <p align="justify">Se você procura alguém que se dedique a entregar resultados excepcionais, apaixonado por tecnologia e sempre querendo aprender mais, chegou no lugar certo. Vamos criar algo incrível juntos?</p>
 
-<p align="justify">Acesse meu portfólio: [www.alexbranco.com.br](http://www.alexbranco.com.br)</p>
+<p align="justify">Acesse meu portfólio: (http://www.alexbranco.com.br)</p>
  
 <br>
 
