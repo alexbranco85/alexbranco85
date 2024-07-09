@@ -17,7 +17,7 @@ Acesse meu portfólio: [www.alexbranco.dev.br](http://www.alexbranco.dev.br)
  
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fc6326&color:FFF)](linkedin.com/in/alex-branco-08449b1b7)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fc6326&color:FFF)](https://www.linkedin.com/in/alex-branco-08449b1b7)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=fc6326&color:FFF)](https://www.instagram.com/alexbranco85/)
 
 <details align="left">
