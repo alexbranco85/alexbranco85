@@ -12,8 +12,6 @@
 <p align="justify">🌐 Além disso, busco sempre aprimorar minha lógica e habilidades em controle de versão com o Git. Minha bagagem inclui experiência em SQL, Redux.js, React.js, Material Design do Google, entre outros. No meu caminho de desenvolvimento, adquiri habilidades em Node.js, MySQL, Express, Sequelize, Axios, Java e SpringBoot para lidar com dados de maneira eficaz. Com um olho afiado para o design, também estou confortável trabalhando com Figma para colaboração e prototipação.</p>
 
 <p align="justify">Se você procura alguém que se dedique a entregar resultados excepcionais, apaixonado por tecnologia e sempre querendo aprender mais, chegou no lugar certo. Vamos criar algo incrível juntos?</p>
-
-Acesse meu portfólio: [www.alexbranco.dev.br](http://www.alexbranco.dev.br)
  
 <br>
 
