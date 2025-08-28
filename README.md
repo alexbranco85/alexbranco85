@@ -5,13 +5,9 @@
     <strong># Alex Branco</strong>
 </p>
 
-<p align="justify"> Olá, sou um entusiasta do mundo da programação e apaixonado por criar experiências digitais envolventes.</p>
+<p align="justify"> Desenvolvedor de Software Fullstack com ampla experiência na criação de interfaces visuais excepcionais e experiências de usuário impactantes e apaixonado em resolver problemas.</p>
 
 <p align="justify">🚀 Estou sempre focado em melhorar a experiência do usuário, e meu toolkit inclui conhecimentos em UX, o que me ajuda a criar produtos que não apenas parecem bons, mas também funcionam efetivamente.</p>
-
-<p align="justify">🌐 Além disso, busco sempre aprimorar minha lógica e habilidades em controle de versão com o Git. Minha bagagem inclui experiência em SQL, Redux.js, React.js, Material Design do Google, entre outros. No meu caminho de desenvolvimento, adquiri habilidades em Node.js, MySQL, Express, Sequelize, Axios, Java e SpringBoot para lidar com dados de maneira eficaz. Com um olho afiado para o design, também estou confortável trabalhando com Figma para colaboração e prototipação.</p>
-
-<p align="justify">Se você procura alguém que se dedique a entregar resultados excepcionais, apaixonado por tecnologia e sempre querendo aprender mais, chegou no lugar certo. Vamos criar algo incrível juntos?</p>
  
 <br>
 
