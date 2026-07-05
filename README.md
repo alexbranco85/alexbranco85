@@ -98,18 +98,6 @@ Tenho atuado como **referência técnica** em decisões arquiteturais, com foco 
 
 ---
 
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| 🤖 **job-agent** | Agente de automação para busca e candidatura a vagas: scraping (Gupy, Vagas.com), análise de compatibilidade com IA (Claude), notificações via Telegram e auto-apply com Playwright |
-| 💰 **[finbits](https://github.com/alexbranco85/finbits)** | Aplicação em TypeScript |
-| ☕ **[coffee-laranja](https://github.com/alexbranco85/coffee-laranja)** | Site institucional — Coffee Break Laranja Lima |
-| 👥 **[clientes-react-node-ts](https://github.com/alexbranco85/clientes-react-node-ts)** | CRUD full stack com React, Node.js e TypeScript |
-| 📊 **[scripts-relatorios](https://github.com/alexbranco85/scripts-relatorios)** | Scripts em Python para geração de relatórios |
-
----
-
 ### 🎓 Trajetória
 
 - **Liguelead** — Desenvolvedor de Software Sênior *(08/2024 – atual)*
