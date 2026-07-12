@@ -25,10 +25,10 @@ Desenvolvedor de Software **Sênior**, atuando com **sistemas distribuídos e me
 
 Tenho atuado como **referência técnica** em decisões arquiteturais, com foco constante em **performance, confiabilidade e qualidade de código** — e mais recentemente, em como a **IA pode acelerar e elevar a qualidade do ciclo de desenvolvimento**.
 
-- 🔭 Atualmente na **[Liguelead](https://www.liguelead.com/)**, evoluindo microserviços de mensageria (SQS, RabbitMQ, Redis, Firehose)
+- 🔭 Atualmente na **[Liguelead]**, evoluindo microserviços de mensageria (SQS, RabbitMQ, Redis, Firehose)
 - 🧩 Aplico **Software Design Driven (SDD)** para modelar e documentar soluções antes de implementar
 - 🤖 Integro **IA generativa** ao fluxo de engenharia: geração assistida de código, apoio a decisões arquiteturais e **code review automatizado com LLMs** no CI/CD
-- 🌱 Mentor voluntário de front-end na **[SouJunior](https://soujunior.tech/)**, apoiando devs em início de carreira
+- 🌱 Mentor voluntário de front-end na **[SouJunior]**, apoiando devs em início de carreira
 - 📈 Mais de **10 anos** construindo produtos web, do front ao back
 - 💬 Fale comigo sobre arquitetura de sistemas, mensageria, IA aplicada a produtividade de engenharia ou sobre o meu projeto de automação com agentes de IA
 
